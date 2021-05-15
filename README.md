@@ -1,0 +1,2 @@
+# STG
+Swift Typing Game
